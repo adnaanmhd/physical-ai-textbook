@@ -1,0 +1,13 @@
+/* Evidence badges: [company claim]{.ev}, [demo]{.ev}, [inference]{.ev} */
+.ev {
+  display: inline-block;
+  font-size: 0.72em;
+  line-height: 1.4;
+  padding: 0 0.45em;
+  margin: 0 0.15em;
+  border: 1px solid currentColor;
+  border-radius: 0.7em;
+  opacity: 0.75;
+  white-space: nowrap;
+  vertical-align: 0.1em;
+}

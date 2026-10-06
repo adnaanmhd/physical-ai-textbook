@@ -1,0 +1,21 @@
+# Quarto build output
+book/_book/
+book/.quarto/
+book/**/*_files/
+book/**/*.html
+
+# Locks and temp files from the scripts
+*.lock
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+
+# OS and editor files
+.DS_Store
+.vscode/
+
+# Local, personal Claude Code settings
+CLAUDE.local.md
+.claude/settings.local.json

@@ -1,0 +1,7 @@
+# Mid-training: steering a general model toward the physical world {#sec-ch32}
+
+<!-- STUB -->
+
+::: {.callout-note title="In preparation"}
+This chapter has not been written yet (status: planned).
+:::

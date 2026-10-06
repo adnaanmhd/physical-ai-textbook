@@ -1,0 +1,7 @@
+# Pre-training the robot brain {#sec-ch31}
+
+<!-- STUB -->
+
+::: {.callout-note title="In preparation"}
+This chapter has not been written yet (status: planned).
+:::

@@ -1,0 +1,7 @@
+# Where deployment is happening, and where it's next {#sec-ch51}
+
+<!-- STUB -->
+
+::: {.callout-note title="In preparation"}
+This chapter has not been written yet (status: planned).
+:::

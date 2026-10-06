@@ -1,0 +1,4 @@
+# Domains that must never be cited (see docs/SOURCES.md, "Banned").
+# One domain per line; subdomains are matched too. Scouts add a domain only after rejecting it,
+# with the reason logged in research/chNN/rejected.md.
+wikipedia.org

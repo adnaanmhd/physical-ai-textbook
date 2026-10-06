@@ -1,0 +1,7 @@
+# Post-training: fine-tuning, adaptation and making models fast {#sec-ch33}
+
+<!-- STUB -->
+
+::: {.callout-note title="In preparation"}
+This chapter has not been written yet (status: planned).
+:::

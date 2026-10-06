@@ -1,0 +1,7 @@
+# Learning from people: web video, egocentric video and motion capture {#sec-ch18}
+
+<!-- STUB -->
+
+::: {.callout-note title="In preparation"}
+This chapter has not been written yet (status: planned).
+:::

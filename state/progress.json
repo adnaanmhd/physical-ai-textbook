@@ -1,0 +1,560 @@
+{
+  "book": {
+    "title": "The Humanoid Lifecycle",
+    "subtitle": "How intelligent humanoid robots are built, trained, deployed and improved, explained from first principles",
+    "current_as_of": null,
+    "pilot": "29",
+    "last": "01"
+  },
+  "parts": [
+    {
+      "id": "P0",
+      "title": "Orientation",
+      "chapters": [
+        {
+          "id": "01",
+          "slug": "lifecycle-on-one-page",
+          "title": "The lifecycle on one page",
+          "lifecycle": false,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "02",
+          "slug": "why-a-humanoid",
+          "title": "Why a humanoid?",
+          "lifecycle": false,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "03",
+          "slug": "short-history",
+          "title": "A short history: from programmed arms to robot foundation models",
+          "lifecycle": false,
+          "status": "planned",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "P1",
+      "title": "The body",
+      "chapters": [
+        {
+          "id": "04",
+          "slug": "anatomy-and-reference-humanoid",
+          "title": "Anatomy, degrees of freedom and the reference humanoid",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "05",
+          "slug": "actuators",
+          "title": "Actuators: motors, drives and power electronics",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "06",
+          "slug": "transmissions-and-joints",
+          "title": "Transmissions, joints and sensing the joint",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "07",
+          "slug": "hands-and-end-effectors",
+          "title": "Hands and end-effectors",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "08",
+          "slug": "senses",
+          "title": "The senses: cameras, depth, inertial, force, touch and sound",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "09",
+          "slug": "compute-power-heat-network",
+          "title": "Compute, power, heat and the network",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "10",
+          "slug": "safety-hardware-reliability",
+          "title": "Safety hardware, reliability and maintenance",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "P2",
+      "title": "Foundations from zero",
+      "chapters": [
+        {
+          "id": "11",
+          "slug": "neural-networks",
+          "title": "How machines learn: neural networks from scratch",
+          "lifecycle": false,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "12",
+          "slug": "transformers-llms-vlms",
+          "title": "Transformers, language models and vision-language models",
+          "lifecycle": false,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "13",
+          "slug": "generative-models",
+          "title": "Generative models: autoencoders, diffusion, flow matching and autoregression",
+          "lifecycle": false,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "14",
+          "slug": "reinforcement-learning",
+          "title": "Reinforcement learning from zero",
+          "lifecycle": false,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "15",
+          "slug": "kinematics-dynamics-control",
+          "title": "Kinematics, dynamics and control",
+          "lifecycle": false,
+          "status": "planned",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "P3",
+      "title": "The software stack",
+      "chapters": [
+        {
+          "id": "16",
+          "slug": "layered-robot-brain",
+          "title": "The layered robot brain: loops, clock rates and latency",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "P4",
+      "title": "Data",
+      "chapters": [
+        {
+          "id": "17",
+          "slug": "data-bottleneck",
+          "title": "Why data is the bottleneck",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "18",
+          "slug": "learning-from-people",
+          "title": "Learning from people: web video, egocentric video and motion capture",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "19",
+          "slug": "teleoperation",
+          "title": "Teleoperation: how robot demonstrations are collected",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "20",
+          "slug": "synthetic-autonomous-deployment-data",
+          "title": "Synthetic, autonomous and deployment data",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "21",
+          "slug": "modalities-data-dictionary",
+          "title": "Modalities and the data dictionary",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "22",
+          "slug": "capture-calibration-sync",
+          "title": "Capture rigs, calibration and time synchronisation",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "23",
+          "slug": "formats-storage-pipelines",
+          "title": "Formats, storage and data pipelines",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "24",
+          "slug": "quality-annotation-privacy",
+          "title": "Quality, annotation, privacy and consent",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "25",
+          "slug": "retargeting-cross-embodiment",
+          "title": "Bridging bodies: retargeting and cross-embodiment action spaces",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "26",
+          "slug": "dataset-design-mixtures",
+          "title": "Designing datasets and data mixtures",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "P5",
+      "title": "Simulation",
+      "chapters": [
+        {
+          "id": "27",
+          "slug": "simulators-and-rl-gyms",
+          "title": "Simulators and RL gyms",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "28",
+          "slug": "training-in-simulation",
+          "title": "Training in simulation",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "29",
+          "slug": "sim-to-real-gap",
+          "title": "The sim-to-real gap",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "P6",
+      "title": "Training robot policies",
+      "chapters": [
+        {
+          "id": "30",
+          "slug": "training-stages-primer",
+          "title": "A primer on training stages: pre-, mid- and post-training and RL",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "31",
+          "slug": "pre-training",
+          "title": "Pre-training the robot brain",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "32",
+          "slug": "mid-training",
+          "title": "Mid-training: steering a general model toward the physical world",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "33",
+          "slug": "post-training",
+          "title": "Post-training: fine-tuning, adaptation and making models fast",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "34",
+          "slug": "rl-for-robot-policies",
+          "title": "Reinforcement learning for robot policies",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "35",
+          "slug": "brain-to-body",
+          "title": "Connecting brain and body: from policy outputs to whole-body motion",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "P7",
+      "title": "World models",
+      "chapters": [
+        {
+          "id": "36",
+          "slug": "what-is-a-world-model",
+          "title": "What a world model is",
+          "lifecycle": false,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "37",
+          "slug": "inside-a-video-world-model",
+          "title": "Inside a video world model",
+          "lifecycle": false,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "38",
+          "slug": "training-world-models",
+          "title": "Training world models: pre-, mid- and post-training and RL",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "39",
+          "slug": "using-world-models",
+          "title": "Using world models: data, evaluation, RL and planning",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "P8",
+      "title": "World action models and convergence",
+      "chapters": [
+        {
+          "id": "40",
+          "slug": "world-action-models",
+          "title": "World action models (WAMs)",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "41",
+          "slug": "world-model-failures-and-data",
+          "title": "Where world models and WAMs fail, and what data fixes it",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "42",
+          "slug": "wam-vla-convergence",
+          "title": "How WAMs and VLAs converge on physical AI",
+          "lifecycle": false,
+          "status": "planned",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "P9",
+      "title": "Evaluation and safety",
+      "chapters": [
+        {
+          "id": "43",
+          "slug": "evaluating-policies",
+          "title": "Evaluating robot policies",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "44",
+          "slug": "safety-engineering",
+          "title": "Safety engineering for learned robots",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "45",
+          "slug": "standards-certification-regulation",
+          "title": "Standards, certification and regulation",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "P10",
+      "title": "Deployment",
+      "chapters": [
+        {
+          "id": "46",
+          "slug": "deployment-readiness",
+          "title": "Deployment readiness",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "47",
+          "slug": "running-a-fleet",
+          "title": "Running a fleet",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "P11",
+      "title": "After deployment",
+      "chapters": [
+        {
+          "id": "48",
+          "slug": "data-flywheel",
+          "title": "The data flywheel",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "49",
+          "slug": "continual-improvement-release",
+          "title": "Continual improvement and release engineering",
+          "lifecycle": true,
+          "status": "planned",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "P12",
+      "title": "Landscape and frontier",
+      "chapters": [
+        {
+          "id": "50",
+          "slug": "lab-teardowns",
+          "title": "Lab-by-lab teardowns",
+          "lifecycle": false,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "51",
+          "slug": "where-deployment-is-next",
+          "title": "Where deployment is happening, and where it's next",
+          "lifecycle": false,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "52",
+          "slug": "open-problems",
+          "title": "Open problems and where the field is heading",
+          "lifecycle": false,
+          "status": "planned",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "APP",
+      "title": "Appendices",
+      "appendix": true,
+      "chapters": [
+        {
+          "id": "A",
+          "slug": "data-dictionary",
+          "title": "Data dictionary",
+          "lifecycle": false,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "B",
+          "slug": "hardware-reference",
+          "title": "Hardware component reference",
+          "lifecycle": false,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "C",
+          "slug": "metrics-kpis",
+          "title": "Metrics and KPI catalogue",
+          "lifecycle": false,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "D",
+          "slug": "equations",
+          "title": "Equations reference",
+          "lifecycle": false,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "E",
+          "slug": "glossary",
+          "title": "Glossary",
+          "lifecycle": false,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "F",
+          "slug": "reading-paths",
+          "title": "Reading paths",
+          "lifecycle": false,
+          "status": "planned",
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}

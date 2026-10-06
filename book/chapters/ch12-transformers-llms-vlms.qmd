@@ -1,0 +1,7 @@
+# Transformers, language models and vision-language models {#sec-ch12}
+
+<!-- STUB -->
+
+::: {.callout-note title="In preparation"}
+This chapter has not been written yet (status: planned).
+:::

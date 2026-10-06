@@ -1,0 +1,7 @@
+# What a world model is {#sec-ch36}
+
+<!-- STUB -->
+
+::: {.callout-note title="In preparation"}
+This chapter has not been written yet (status: planned).
+:::

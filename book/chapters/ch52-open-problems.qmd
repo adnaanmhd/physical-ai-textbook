@@ -1,0 +1,7 @@
+# Open problems and where the field is heading {#sec-ch52}
+
+<!-- STUB -->
+
+::: {.callout-note title="In preparation"}
+This chapter has not been written yet (status: planned).
+:::

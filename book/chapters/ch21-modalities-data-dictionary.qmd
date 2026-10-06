@@ -1,0 +1,7 @@
+# Modalities and the data dictionary {#sec-ch21}
+
+<!-- STUB -->
+
+::: {.callout-note title="In preparation"}
+This chapter has not been written yet (status: planned).
+:::

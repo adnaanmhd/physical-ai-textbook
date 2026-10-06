@@ -1,0 +1,7 @@
+# Equations reference {#sec-app-d}
+
+<!-- STUB -->
+
+::: {.callout-note title="In preparation"}
+This chapter has not been written yet (status: planned).
+:::

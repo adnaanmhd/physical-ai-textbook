@@ -1,0 +1,7 @@
+# Training world models: pre-, mid- and post-training and RL {#sec-ch38}
+
+<!-- STUB -->
+
+::: {.callout-note title="In preparation"}
+This chapter has not been written yet (status: planned).
+:::

@@ -1,0 +1,7 @@
+# Formats, storage and data pipelines {#sec-ch23}
+
+<!-- STUB -->
+
+::: {.callout-note title="In preparation"}
+This chapter has not been written yet (status: planned).
+:::

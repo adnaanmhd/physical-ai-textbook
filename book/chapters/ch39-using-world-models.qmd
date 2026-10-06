@@ -1,0 +1,7 @@
+# Using world models: data, evaluation, RL and planning {#sec-ch39}
+
+<!-- STUB -->
+
+::: {.callout-note title="In preparation"}
+This chapter has not been written yet (status: planned).
+:::

@@ -1,0 +1,7 @@
+# Compute, power, heat and the network {#sec-ch09}
+
+<!-- STUB -->
+
+::: {.callout-note title="In preparation"}
+This chapter has not been written yet (status: planned).
+:::

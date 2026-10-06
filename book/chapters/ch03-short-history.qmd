@@ -1,0 +1,7 @@
+# A short history: from programmed arms to robot foundation models {#sec-ch03}
+
+<!-- STUB -->
+
+::: {.callout-note title="In preparation"}
+This chapter has not been written yet (status: planned).
+:::

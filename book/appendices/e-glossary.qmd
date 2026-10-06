@@ -1,0 +1,10 @@
+# Glossary {#sec-app-e}
+
+Terms are defined where they first appear in the text. This list collects them in
+alphabetical order, each with a pointer to the chapter that teaches it.
+
+<!-- Add entries in definition-list form, keeping the list alphabetical:
+
+Term
+: One- or two-sentence definition. (@sec-chNN)
+-->

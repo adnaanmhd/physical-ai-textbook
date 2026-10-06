@@ -1,0 +1,4 @@
+# Words the British-spelling check should ignore: proper nouns, product names, code identifiers.
+# One per line, case-sensitive. Example: a benchmark or library whose official name uses US spelling.
+BEHAVIOR
+Optimizer

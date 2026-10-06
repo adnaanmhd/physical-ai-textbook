@@ -1,0 +1,7 @@
+# Generative models: autoencoders, diffusion, flow matching and autoregression {#sec-ch13}
+
+<!-- STUB -->
+
+::: {.callout-note title="In preparation"}
+This chapter has not been written yet (status: planned).
+:::

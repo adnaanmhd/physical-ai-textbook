@@ -1,0 +1,31 @@
+{
+  "env": {
+    "CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION": "10000"
+  },
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch",
+      "Bash(python3 scripts/*)",
+      "Bash(quarto render *)",
+      "Bash(quarto check *)",
+      "Bash(quarto --version)",
+      "Bash(quarto tools)",
+      "Bash(quarto tools *)",
+      "Bash(git status)",
+      "Bash(git status *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git diff *)",
+      "Bash(git log *)",
+      "Bash(ls *)",
+      "Bash(mkdir *)",
+      "Bash(wc *)"
+    ],
+    "deny": [
+      "Bash(git push *)",
+      "Bash(rm -rf *)",
+      "Edit(/ledger/**)"
+    ]
+  }
+}

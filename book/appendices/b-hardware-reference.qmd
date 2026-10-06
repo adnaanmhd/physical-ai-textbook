@@ -1,0 +1,7 @@
+# Hardware component reference {#sec-app-b}
+
+<!-- STUB -->
+
+::: {.callout-note title="In preparation"}
+This chapter has not been written yet (status: planned).
+:::

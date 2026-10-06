@@ -1,0 +1,7 @@
+# The layered robot brain: loops, clock rates and latency {#sec-ch16}
+
+<!-- STUB -->
+
+::: {.callout-note title="In preparation"}
+This chapter has not been written yet (status: planned).
+:::

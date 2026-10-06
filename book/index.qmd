@@ -1,0 +1,45 @@
+# Preface {.unnumbered}
+
+This book explains, from first principles, how an intelligent humanoid robot is built,
+trained, deployed and improved after deployment. It assumes no background in robotics or
+machine learning, and it goes all the way to the current frontier.
+
+*Current as of {{< var current_as_of >}}.*
+
+## How each concept is taught {.unnumbered}
+
+Every concept and every component is explained in the same five layers:
+
+1. **ELI5**: an everyday analogy that maps onto the real mechanism.
+2. **First principles**: why it has to work this way.
+3. **How it's actually done**: from the basic version to the frontier, with real numbers and named systems.
+4. **Deployment lens**: what breaks in the field, what gets measured, and how it improves after launch.
+5. **Sources**: every factual statement is cited.
+
+## Evidence tags {.unnumbered}
+
+Each chapter ends with a table of its sources and their evidence tags:
+
+| Tag | Meaning |
+|---|---|
+| peer-reviewed | Published in a peer-reviewed venue |
+| preprint | Public, but not yet peer-reviewed |
+| technical report | A lab's technical report, model or dataset card, or official documentation |
+| company claim | A company's statement about its own product, results or plans |
+| demo | A video or live demonstration; the text says whether it was autonomous |
+| standard | A standard or regulation |
+| press | Journalism, used only where no primary source exists |
+
+In the text, [company claim]{.ev}, [demo]{.ev} and [inference]{.ev} badges flag statements
+that rest on a company's word, on a demonstration, or on the book's own reasoning.
+
+## Running examples {.unnumbered}
+
+Four tasks run through the book: a dinner for five with allergies, the kitchen reset that
+follows it, an EV battery-pack connection station, and a greenhouse tomato harvest. They show
+what each idea means for a real deployment.
+
+## Research prompts {.unnumbered}
+
+Each chapter ends with research prompts. The book deliberately does not answer them: they
+point you to current evidence you will need to find and judge for yourself.
