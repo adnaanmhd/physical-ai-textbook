@@ -71,6 +71,7 @@ Inference (reasoning beyond the sources) is not a source tag. Label it `[inferen
 
 ## Access
 - **Paywalls:** use the abstract only and record `access: "abstract"`. Never use circumvention.
+  - **Paywalled standards and regulations** (decided at gate G1): cite the issuing body's catalogue entry or official summary as the abstract, record `access: "abstract"`, and say in the text that the full standard was not read.
 - **Blocked sites:** if WebFetch declines or is blocked for a site, use another source. Do not route around the block with any other tool.
 - **Verbatim text:** WebFetch returns a model's summary of a page, which is good for reading but cannot prove exact wording. For the ledger's `support` passages and for fact-checking, use
   `python3 scripts/fetch_text.py URL --find "phrase"`, which prints the source's own words around the match.

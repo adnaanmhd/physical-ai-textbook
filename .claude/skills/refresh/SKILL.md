@@ -17,7 +17,7 @@ allowed-tools:
    - spawn the `fact-checker` in re-verify mode for the changed sentences;
    - spawn the `bibliographer` (new sources need entries), then the `editor`.
 4. **Check the whole book:** `python3 scripts/check_chapter.py --all --stage final` must exit 0. Route any failure as in `build-part` step 3.
-5. **Also scan for new frontier work.** For the chapters on VLAs, world models, WAMs, evaluation, standards and the landscape (ch31–34, ch36–43, ch45, ch50–52), spawn `scout` in light-scan mode. If it finds major new work, add a feedback item to `FEEDBACK.md` proposing an update; do not rewrite silently.
+5. **Also scan for new frontier work.** For the chapters on VLAs, world models, WAMs, evaluation, standards and the landscape (ch31–34, ch36–43, ch45, ch50–53), spawn `scout` in light-scan mode. If it finds major new work, add a feedback item to `FEEDBACK.md` proposing an update; do not rewrite silently.
 6. **Stamp the date:**
    - `python3 scripts/progress.py current-as-of YYYY-MM-DD`, using today's date;
    - `quarto render book --to html`;

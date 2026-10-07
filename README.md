@@ -104,7 +104,7 @@ FEEDBACK.md PROGRESS.md   your inbox, and the production log
 
 ## 8. Expectations
 - **Scale.** This is a book-length, research-heavy build, so plan for it to run over weeks, not days. The pilot chapter gives you a real per-chapter number for time and usage; extrapolate from that.
-- **Hard stops.** The pipeline stops at G1 and G2 by design. Approve them deliberately: they set the shape and voice of all 52 chapters.
+- **Hard stops.** The pipeline stops at G1 and G2 by design. Approve them deliberately: they set the shape and voice of every chapter.
 - **Model choice.** Opus does the heavy writing and checking. If your plan offers Claude Fable, you can try it for the writer or synthesizer by changing `model:` in that agent's file; check its usage cost and test it on one chapter first, since it has extra safeguards around AI research and development that a book about training AI models may run into.
 
 ## 9. Troubleshooting

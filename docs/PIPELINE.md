@@ -28,7 +28,7 @@
 | P9 | Evaluation and safety | 43–45 |
 | P10 | Deployment | 46–47 |
 | P11 | After deployment | 48–49 |
-| P12 | Landscape and frontier | 50–52 |
+| P12 | Landscape and frontier | 50–53 |
 | APP | Appendices | A–F |
 
 ## Per-chapter stages

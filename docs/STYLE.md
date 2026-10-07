@@ -9,6 +9,7 @@ The writer, editor and every reviewer apply this file. Feedback from the pilot c
   - One idea per paragraph.
   - Active voice.
 - **Terms:** define every technical term at first use, in the sentence where it appears, and add it to `book/appendices/e-glossary.qmd`.
+- **When a lab's label differs from the book's** (decided at gate G1): use the book's definitions everywhere, for example the training stages and "world action model". Give the lab's own label too, attributed ("Meta calls this step post-training"). A system meets a definition whatever its date; say when a label was applied after the fact.
 - **No filler:**
   - no hype adjectives ("revolutionary", "game-changing");
   - no rhetorical questions as filler;
@@ -91,6 +92,7 @@ Optional blocks, used where they add value:
   - Add a badge right after the citation, before the full stop: `… without a fall [@key] [company claim]{.ev}. <!--C:…-->`. Badges are `[company claim]{.ev}`, `[demo]{.ev}` and `[inference]{.ev}`.
   - For demos, say whether the run was autonomous, teleoperated or unspecified.
 - **Reasoning that goes beyond the sources:** mark it `[inference]{.ev}` and make the reasoning visible.
+- **Missing evidence and analogues** (decided at gate G1). When no public source gives a number (reliability, cost per hour, operator ratios and the like), say so plainly and teach how the number would be found; a worked example uses marked illustrative numbers. A sourced fact from a neighbouring field (industrial arms, mobile robots, cars, software releases) may stand in as an analogue: introduce it as one ("In industrial arms, …"), state that no humanoid figure is public, and mark the step from the analogue to humanoids `[inference]{.ev}`.
 - **Disagreements:** state both positions with attribution, then say which evidence is stronger and why.
 - **TODOs:** if a needed fact has no claim, write `<!--TODO: need claim for …-->` and never invent one. TODOs must be gone before the final stage.
 

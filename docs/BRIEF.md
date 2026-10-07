@@ -32,17 +32,19 @@ The reader leads product at a company whose north star is enabling robot deploym
 
 ### Settings
 - Factory, warehouse, retail, home and healthcare, with the most depth where real deployments exist.
-- Plus the settings where the next wave of deployment looks imminent; chapter 51 makes that case with evidence.
+- Plus the settings where the next wave of deployment looks imminent; chapter 52 makes that case with evidence (chapter 51 before the G1 split of the teardowns).
 
 ### Labs
-Teardowns are in ch50, and the labs are referenced throughout:
+Teardowns are in ch50 (humanoid makers) and ch51 (robot brains, platforms, open projects and world-model builders), split at gate G1, and the labs are referenced throughout. The list below is the agreed starting point, not a closed set (decided at gate G1, 2026-10-07): cover every organisation that matters, comprehensively, in ch50 and wherever a topic needs it.
 - Figure, Neura Robotics, Dyna Robotics, Skild AI, Physical Intelligence, Google DeepMind, NVIDIA, Tesla, 1X;
 - Agility Robotics, Boston Dynamics with Toyota Research Institute, Apptronik, Generalist AI, OpenAI, Meta;
 - Unitree, AgiBot, Galbot, UBTech.
 
 Rules for the teardowns:
 - OpenAI and Tesla publish little about their stacks, so keep those teardowns short and strictly evidence-bound.
-- Add other organisations only where they matter to a topic, for example Sunday Robotics, Hexagon, Rhoda AI, or Black Forest Labs for FLUX 3 Action.
+- Go beyond the starting list wherever an organisation matters: other humanoid makers (for example Hexagon), robot-brain and data companies (for example Sunday Robotics and Rhoda AI), world-model builders (for example Odyssey, and Black Forest Labs for FLUX 3 Action) and open-source projects.
+- Research up-and-coming world-model builders and open-source releases actively: they often publish their recipes, weights and data in detail, filling gaps that closed labs leave.
+- Where a lab discloses nothing, say so ("not disclosed") in tables and teardowns rather than leave it out.
 
 ### Training coverage (mandatory and comprehensive)
 - Cover pre-training, mid-training, post-training, RL, and RL gyms and simulators.

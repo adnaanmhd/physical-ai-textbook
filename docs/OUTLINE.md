@@ -2,6 +2,8 @@
 
 This is the approved chapter-level plan. `/plan-book` turns it into the section-level `docs/OUTLINE-DETAILED.md` (gate G1).
 
+**Superseded at gate G1 (2026-10-07):** `docs/OUTLINE-DETAILED.md` is now the plan. It splits ch50 into ch50 (humanoid makers) and ch51 (robot brains, platforms, open projects and world-model builders), so the seed's ch51 and ch52 are now ch52 and ch53. This seed is kept unchanged as the record.
+
 **How to read the research targets.** They are leads, not facts. Every name, date and number must be re-verified against primary sources at research time. Always search for newer versions or successors before writing.
 
 **Lifecycle chapters** carry a "People, tools and costs" section.

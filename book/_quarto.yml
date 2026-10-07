@@ -86,9 +86,10 @@ book:
         - chapters/ch49-continual-improvement-release.qmd
     - part: "Part 12 · Landscape and frontier"
       chapters:
-        - chapters/ch50-lab-teardowns.qmd
-        - chapters/ch51-where-deployment-is-next.qmd
-        - chapters/ch52-open-problems.qmd
+        - chapters/ch50-lab-teardowns-makers.qmd
+        - chapters/ch51-lab-teardowns-brains.qmd
+        - chapters/ch52-where-deployment-is-next.qmd
+        - chapters/ch53-open-problems.qmd
     - references.qmd
   appendices:
     - appendices/a-data-dictionary.qmd

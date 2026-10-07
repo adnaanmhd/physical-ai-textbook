@@ -477,14 +477,22 @@
       "chapters": [
         {
           "id": "50",
-          "slug": "lab-teardowns",
-          "title": "Lab-by-lab teardowns",
+          "slug": "lab-teardowns-makers",
+          "title": "Lab teardowns I: the humanoid makers",
           "lifecycle": false,
           "status": "planned",
           "notes": ""
         },
         {
           "id": "51",
+          "slug": "lab-teardowns-brains",
+          "title": "Lab teardowns II: robot brains, platforms, open projects and world-model builders",
+          "lifecycle": false,
+          "status": "planned",
+          "notes": ""
+        },
+        {
+          "id": "52",
           "slug": "where-deployment-is-next",
           "title": "Where deployment is happening, and where it's next",
           "lifecycle": false,
@@ -492,7 +500,7 @@
           "notes": ""
         },
         {
-          "id": "52",
+          "id": "53",
           "slug": "open-problems",
           "title": "Open problems and where the field is heading",
           "lifecycle": false,

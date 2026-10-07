@@ -1,0 +1,7 @@
+# Lab teardowns II: robot brains, platforms, open projects and world-model builders {#sec-ch51}
+
+<!-- STUB -->
+
+::: {.callout-note title="In preparation"}
+This chapter has not been written yet (status: planned).
+:::
